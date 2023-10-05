@@ -51,5 +51,5 @@ N/A
 
 ## Demo
 
-[githubpage](https://github.com/bybymaxy/PasswordGenChallenge)
+[githubpage](https://github.com/bybymaxy/PasswordGenChallenge)<br>
 [livelink](https://bybymaxy.github.io/PasswordGenChallenge/)
